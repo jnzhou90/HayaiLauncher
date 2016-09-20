@@ -1,4 +1,5 @@
 # HayaiLauncher
+# 只要一个界面, 有一个搜索款,能够搜索改手机里面说有的APP. 不能够移动图标.
 
 It is a fast, lightweight Android Launcher.
 It is [free/libre software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society).
